@@ -4,6 +4,8 @@ description: This file contains information regarding homework solutions 10 solu
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/236b8d9def38bb7510a2ed3340d8ca4a_MIT1_264JF13_HW10_sol.pdf
 file_size: 548125
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

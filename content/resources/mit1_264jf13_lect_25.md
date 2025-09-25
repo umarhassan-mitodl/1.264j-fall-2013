@@ -4,6 +4,8 @@ description: This file contains information regarding lecture 25.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d1c1ff3d9be107f93c787d7ef93de351_MIT1_264JF13_lect_25.pdf
 file_size: 117726
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

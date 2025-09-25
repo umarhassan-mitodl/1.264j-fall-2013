@@ -4,6 +4,8 @@ description: 'This is a special file related to csv. '
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/3f2b45c65d261e139a23e98d5254bf58_L15_input.csv
 file_size: 545
 file_type: text/comma-separated-values
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
