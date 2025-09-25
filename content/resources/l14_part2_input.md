@@ -4,6 +4,8 @@ description: This is a special file related to zip.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/59b47b89943d543545ea60bbc1b7d33a_L14_part2_input.zip
 file_size: 3820600
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -32,6 +32,7 @@
     "website": "1-264j-database-internet-and-systems-integration-technologies-fall-2013"
   },
   "course_title": "Database, Internet, and Systems Integration Technologies",
+  "hide_download": true,
   "course_description": "This course addresses information technology fundamentals, including project management and software processes, data modeling, UML, relational databases and SQL. Topics covered include internet technologies, such as XML, web services, and service-oriented architectures. This course provides an introduction to security and presents the fundamentals of telecommunications and includes a project that involves requirements / design, data model, database implementation, website, security and data network. No prior programming experience required.\n",
   "department_numbers": [
     "1",
@@ -43,6 +44,7 @@
     "content": "0296487e-d9fb-7ac2-5d81-5c4a4558167a",
     "website": "1-264j-database-internet-and-systems-integration-technologies-fall-2013"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Exams with Solutions",
     "Lecture Notes",

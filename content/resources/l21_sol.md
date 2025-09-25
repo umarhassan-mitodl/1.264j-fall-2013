@@ -4,6 +4,8 @@ description: 'This is a special file related to xml. '
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/b070d51dd06a219dab92fa42043a73da_L21_sol.xml
 file_size: 441
 file_type: text/xml
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

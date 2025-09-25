@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/69118dd925ab64e7419e54551ae1fa00_L20_sol.zip
 file_size: 10667
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

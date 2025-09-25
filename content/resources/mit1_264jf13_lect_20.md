@@ -4,6 +4,8 @@ description: This file contains information regarding lecture notes 20.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/d545cb4dae7cf92e553c9c54544b2a10_MIT1_264JF13_lect_20.pdf
 file_size: 143172
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
