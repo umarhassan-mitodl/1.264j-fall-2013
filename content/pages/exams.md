@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a quiz review and solutions for the first quiz
   of the course, and quizzes with solutions from a previous version of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

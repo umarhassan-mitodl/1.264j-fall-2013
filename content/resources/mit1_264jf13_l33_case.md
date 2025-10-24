@@ -4,8 +4,6 @@ description: 'This file contains information regarding lecture 33 case studies. 
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c93b0a27a4d6a5bc4f35ab5b795c6a9a_MIT1_264JF13_L33_case.pdf
 file_size: 53962
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

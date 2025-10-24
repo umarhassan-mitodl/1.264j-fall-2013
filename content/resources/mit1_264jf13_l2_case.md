@@ -4,8 +4,6 @@ description: 'This file contains information regarding lecture 2 case studies. '
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/fd0ca3c69fc55d451cc8b907a3253535_MIT1_264JF13_L2_case.pdf
 file_size: 73203
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

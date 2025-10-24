@@ -4,8 +4,6 @@ description: This file contains information regarding homework solutions 2.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/c177aa5fad6c14e7b10c40e01b978742_MIT1_264JF13_HW2_sol.pdf
 file_size: 1344223
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

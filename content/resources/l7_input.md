@@ -4,8 +4,6 @@ description: This is a special file related to vpp.
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/1c746ec7fbfa7671d5f7b450919d2fa1_L7_input.vpp
 file_size: 419840
 file_type: application/octet-stream
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

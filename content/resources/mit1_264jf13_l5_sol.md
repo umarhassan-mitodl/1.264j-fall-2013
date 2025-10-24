@@ -4,8 +4,6 @@ description: This file contains information regarding lecture 5 case study solut
 file: /courses/1-264j-database-internet-and-systems-integration-technologies-fall-2013/9d9bc79713b4477a96d3fb11a3413b7e_MIT1_264JF13_L5_sol.pdf
 file_size: 536755
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
